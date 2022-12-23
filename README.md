@@ -4,6 +4,6 @@ This project is a password generator. Using this tool you can input how long you
 Link is at https://malikdreamy.github.io/password-generator/
 
 Photo
-[file:///Users/maliktornes/Desktop/Screen%20Shot%202022-12-22%20at%206.11.48%20PM.png]
+(https://imgur.com/QYpRlID)
 
 © 2022 Malik Tornes Confidential and Proprietary. All Rights Reserved.
